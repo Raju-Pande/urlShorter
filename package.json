@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mouhsnimohamed/shortURL.git"
+    "url": "git+https://github.com/Raju-Pande/urlShorter"
   },
   "keywords": [
     "short",
     "urls"
   ],
-  "author": "m.mouhsni@gmail.com",
+  "author": "Raju Pande",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
